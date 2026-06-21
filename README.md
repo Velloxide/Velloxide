@@ -18,7 +18,7 @@ const itachi = {
     activeMission: "1337 Piscine & CompTIA Net+ Prep",
     latestProject: "c-challenges-solved",
     interests: ["Algorithms", "Backtracking", "Blockchain"],
-    favorite_quote: "Reality is a good coded genjutsu( ͡° ͜ʖ ͡°)﻿"};
+    favorite_quote: "Reality is a well-coded genjutsu( ͡° ͜ʖ ͡°)﻿"};
 ```
 
 ### 🌟 What I'm Up To
