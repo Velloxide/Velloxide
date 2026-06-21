@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Itachi-Logic;I'm+from+Morocco;Student+at+42+School;C+Programming+Enthusiast;Problem+Solving+Addict;Welcome+to+My+World!+%E3%80%9C)
-
-
 ---
 
 <!-- Main content with better layout -->
