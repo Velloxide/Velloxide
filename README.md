@@ -13,10 +13,9 @@ const itachi = {
     role: "42/1337 School POOL CANDIDATT",
     education: "1337 Morocco",
     currentFocus: "C Programming & System Design",
-    interests: ["Algorithms", "Data Structures",
-     "Open Source"],
-    motto: "The only way to learn programming is
-     by writing programs",
+    interests: ["Algorithms", "Data Structures"],
+    motto: "The only way to learn programming is by:,
+    writing programs",
     favorite_quote: "Code is poetry written for machines"
 };
 ```
