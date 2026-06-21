@@ -18,8 +18,7 @@ const itachi = {
     activeMission: "1337 Piscine & CompTIA Net+ Prep",
     latestProject: "c-challenges-solved",
     interests: ["Algorithms", "Backtracking", "Blockchain"],
-    favorite_quote: "Code is poetry for machines, logic is its soul."
-};
+    favorite_quote: "Code is poetry for machines, logic its soul."};
 ```
 
 ### 🌟 What I'm Up To
