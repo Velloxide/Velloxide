@@ -1,7 +1,7 @@
 <!-- Main content with better layout -->
 <table width="100%">
 <tr>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ## 🎯 About Me
 
@@ -10,11 +10,16 @@ const itachi = {
     username: "Itachi-Logic",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
-    role: "42/1337 School POOL CANDIDATT",
-    education: "1337 Morocco",
-    currentFocus: "C Programming & System Design",
-    interests: ["Algorithms", "Data Structures"],
-    favorite_quote: "Code is poetry written for machines"
+    role: "Aspiring DevOps & 1337 Candidate",
+    education: "1337 Coding School",
+    currentFocus: "Low-level C & System Design",
+    techStack: ["C", "Linux", "Bash"],
+    terminalSetup: ["Kitty", "Tmux", "Neovim", "Fish"],
+    activeMission: "1337 Piscine & CompTIA Net+ Prep",
+    latestProject: "c-challenges-solved",
+    interests: ["Algorithms", "Backtracking", "Blockchain"],
+    animeFuel: ["Jujutsu Kaisen", "Kingdom", "Re:Zero", "Magic Emperor"],
+    favorite_quote: "Code is poetry for machines, logic is its soul."
 };
 ```
 
@@ -31,7 +36,7 @@ const itachi = {
 - 🌙 Night owl coder
 
 </td>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
   <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="300px" alt="Coding Animation"/>
