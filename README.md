@@ -53,8 +53,8 @@ const itachi = {
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/Itachi-Logic;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-Logic&bg_color=0a0a0f&color=ff0000&line=00FF41&point=00FF41&area=true&hide_border=true" alt="GitHub Contribution Graph">
+  <a href="https://github.com/Velloxide;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velloxide&bg_color=0a0a0f&color=ff0000&line=00FF41&point=00FF41&area=true&hide_border=true" alt="GitHub Contribution Graph">
   </a>
 </p>
 ---
