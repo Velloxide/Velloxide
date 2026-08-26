@@ -38,7 +38,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhkbWw2cm44bjV4bGdsbjN0MW90aXVpMzEyeXJ2MjZjNHJlMmdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10jYACUrFLPQC4/giphy.gif" width="300px" alt="Coding Animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh3Ynh1M2pmYzY0bzhsOWc4cDl0aHB5NzQzZ2tjNHJkcjlocDB4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdvbkoUd9TQvevKw/giphy.gif" width="300px" alt="Coding Animation"/>
   <br><br>
   
   <!-- Stats Badges -->
