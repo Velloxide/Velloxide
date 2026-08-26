@@ -38,7 +38,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="300px" alt="Coding Animation"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xjZXBsZ2cwcmN5eHd4a2pncHRtZmtzeXYwaWs2eTJydXl3djlhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif" width="300px" alt="Coding Animation"/>
   <br><br>
   
   <!-- Stats Badges -->
