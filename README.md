@@ -10,7 +10,7 @@ const itachi = {
     username: "Velloxide",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
-    role: "Aspiring DevOps & 1337 Candidate",
+    role: "Cybersecurity Engineer | Binary Exploitation (Pwn) & Vulnerability & 1337 | 42",
     education: "1337 Coding School",
     currentFocus: "Low-level C & System Design",
     techStack: ["C", "Linux", "Bash"],
