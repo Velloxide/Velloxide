@@ -56,7 +56,3 @@ const itachi = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/Velloxide/Velloxide/main/velloxide-terminal-banner.svg" alt="Velloxide terminal banner">
 </p>
-<!-- Padge-->
-<p align="center">
-  <img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide terminal banner">
-</p>
