@@ -51,7 +51,7 @@ const itachi = {
 
 [![GradeMe profile card for @velloxide](https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg)](https://grademe.fr/app/user/0bff3b0b-dcfb-4d25-8ec0-05ffa7b3115d)
 
-<!-- GitHub Contribution Graph --> 
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velloxide&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Velloxide&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </p>
