@@ -10,14 +10,15 @@ const itachi = {
     username: "Velloxide",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
-    role: "Cybersecurity Engineer | Binary Exploitation (Pwn)",
+    role: "Aspiring Exploit Developer | Binary Exploitation (Pwn)",
     education: "1337 Coding School",
-    currentFocus: "Low-level C & System Design",
-    techStack: ["C", "Linux", "Bash"],
+    currentFocus: "Memory Corruption & Reverse Engineering",
+    specialization: "Pwn — Stack/Heap Exploitation, ROP Chains",
+    techStack: ["C", "Linux", "Bash", "Python", "GDB/pwndbg"],
     terminalSetup: ["Kitty", "Tmux", "Neovim", "Fish"],
-    activeMission: "1337 Piscine & CompTIA Net+ Prep",
+    activeMission: "1337 Coding School — Common Core in progress",
     latestProject: "c-challenges-solved",
-    interests: ["Algorithms", "Backtracking"],
+    interests: ["Binary Exploitation", "Algorithms", "Backtracking", "CTFs"],
     favorite_quote: "Reality is a well-coded genjutsu. ( ͡° ͜ʖ ͡°)﻿"
 };
 ```
