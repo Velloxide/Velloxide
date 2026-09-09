@@ -53,5 +53,5 @@ const itachi = {
 
 <!-- GitHub Contribution Graph --> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velloxide&layout=compact&theme=vision-code-friendly&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Velloxide&show_icons=true&theme=vision-code-friendly&hide_border=true" alt="GitHub Stats">
 </p>
