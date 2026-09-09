@@ -53,5 +53,5 @@ const itachi = {
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Velloxide&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://raw.githubusercontent.com/Velloxide/Velloxide/main/velloxide-terminal-banner.svg" alt="Velloxide terminal banner">
 </p>
