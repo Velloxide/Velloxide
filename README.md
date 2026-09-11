@@ -56,8 +56,6 @@ const itachi = {
 </tr>
 </table>
 
-<br>
-
 <!-- ============================== -->
 <!--         GRADEME PROFILE        -->
 <!-- ============================== -->
@@ -66,9 +64,6 @@ const itachi = {
     <img src="https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg" alt="GradeMe profile card for @velloxide" />
   </a>
 </p>
-
-<br>
-
 <!-- ============================== -->
 <!--       TERMINAL / FOOTER        -->
 <!-- ============================== -->
