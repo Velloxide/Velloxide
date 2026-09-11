@@ -1,36 +1,23 @@
 <!-- ============================== -->
-<!--         HEADER / BANNER        -->
+<!--            HEADER              -->
 <!-- ============================== -->
-<table width="100%">
-<tr>
-<td width="100%" align="center">
-  <img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="100%">
-</td>
-</tr>
-<tr>
-<td align="center">
+<h1 align="center">👋 Hi, I'm Velloxide</h1>
+<p align="center"><i>Aspiring Exploit Developer | Binary Exploitation (Pwn)</i></p>
 
-<h1>👋 Hi, I'm Velloxide</h1>
-<i>Aspiring Exploit Developer | Binary Exploitation (Pwn)</i>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=ff0000&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-black?style=for-the-badge" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-Memory%20Corruption%20%26%20RE-red?style=for-the-badge" alt="Focus" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=ff0000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-black?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Memory%20Corruption%20%26%20RE-red?style=for-the-badge" alt="Focus" />
+</p>
 
 <br>
 
 <!-- ============================== -->
-<!--        ABOUT / GIF SPLIT       -->
+<!--   ABOUT ME + 42 CARD + GIF     -->
 <!-- ============================== -->
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ### 🎯 About Me
 
@@ -53,9 +40,13 @@ const itachi = {
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="280px" alt="Coding Animation"/>
+<img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="100%">
+
+<br><br>
+
+<img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="200px" alt="Coding Animation"/>
 
 </td>
 </tr>
