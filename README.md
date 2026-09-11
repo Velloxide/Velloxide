@@ -97,17 +97,64 @@ const itachi = {
 <br>
 
 <!-- ============================== -->
+<!--        GITHUB STATISTICS       -->
+<!-- ============================== -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Velloxide&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Velloxide's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Velloxide&theme=radical&hide_border=true" alt="Velloxide's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velloxide&layout=compact&theme=radical&hide_border=true" alt="Velloxide's Top Languages" />
+</p>
+
+<br>
+
+<!-- ============================== -->
+<!--         TROPHIES               -->
+<!-- ============================== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Velloxide&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<!-- ============================== -->
+<!--         CONNECT WITH ME        -->
+<!-- ============================== -->
+<h3 align="center">🤝 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:saidnaruto115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Velloxide">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://grademe.fr/app/user/0bff3b0b-dcfb-4d25-8ec0-05ffa7b3115d">
+    <img src="https://img.shields.io/badge/GradeMe-FF0000?style=for-the-badge&logo=42&logoColor=white" alt="GradeMe" />
+  </a>
+</p>
+
+<br>
+
+<!-- ============================== -->
 <!--         GRADEME PROFILE        -->
 <!-- ============================== -->
+<h3 align="center">🎓 42 Progress Card</h3>
 <p align="center">
   <a href="https://grademe.fr/app/user/0bff3b0b-dcfb-4d25-8ec0-05ffa7b3115d">
     <img src="https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg" alt="GradeMe profile card for @velloxide" />
   </a>
 </p>
 
+<br>
+
 <!-- ============================== -->
 <!--       TERMINAL / FOOTER        -->
 <!-- ============================== -->
+<h3 align="center">💻 Terminal</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Velloxide/Velloxide/main/velloxide-terminal-banner.svg" alt="Velloxide terminal banner">
 </p>
+
+<p align="center"><i>"Reality is a well-coded genjutsu."</i></p>
