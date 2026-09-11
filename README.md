@@ -48,7 +48,18 @@ const itachi = {
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=280&height=100&lines=root%40velloxide%3A~%24+whoami;Exploit+Developer;root%40velloxide%3A~%24+cat+focus.txt;Pwn+%7C+Reverse+%7C+Chains;root%40velloxide%3A~%24+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2800&pause=700&color=FF0000&center=true&vCenter=true&width=280&height=150&lines=root%40velloxide%3A~%24+whoami;Exploit+Developer;root%40velloxide%3A~%24+cat+focus.txt;Memory+Corruption;Reverse+Engineering;ROP+%7C+Stack+%7C+Heap;root%40velloxide%3A~%24+_" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<br><br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+<img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" alt="Tmux" />
 
 </td>
 </tr>
@@ -85,9 +96,9 @@ const itachi = {
 <br>
 
 <!-- ============================== -->
-<!--         TECH STACK BADGES      -->
+<!--         SKILLS OVERVIEW        -->
 <!-- ============================== -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Full Toolset</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
