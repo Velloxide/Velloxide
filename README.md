@@ -39,14 +39,12 @@ const itachi = {
 };
 ```
 
+<img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="100%">
+
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="100%">
-
-<br><br>
-
-<img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="200px" alt="Coding Animation"/>
+<img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="100%" alt="Coding Animation"/>
 
 </td>
 </tr>
