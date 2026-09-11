@@ -46,6 +46,18 @@ const itachi = {
 
 <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="100%" alt="Coding Animation"/>
 
+<br><br>
+
+**🛠️ Tech Stack**
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /><br>
+<img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" /><br>
+<img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" alt="Tmux" />
+
 </td>
 </tr>
 </table>
@@ -77,45 +89,6 @@ const itachi = {
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- ============================== -->
-<!--         TECH STACK BADGES      -->
-<!-- ============================== -->
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux" />
-</p>
-
-<br>
-
-<!-- ============================== -->
-<!--        GITHUB STATISTICS       -->
-<!-- ============================== -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Velloxide&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Velloxide's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Velloxide&theme=radical&hide_border=true" alt="Velloxide's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velloxide&layout=compact&theme=radical&hide_border=true" alt="Velloxide's Top Languages" />
-</p>
-
-<br>
-
-<!-- ============================== -->
-<!--         TROPHIES               -->
-<!-- ============================== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Velloxide&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 <br>
 
