@@ -1,4 +1,9 @@
 <!-- ============================== -->
+<!--            HEADER              -->
+<!-- ============================== -->
+<h1 align="center">👋 Hi, I'm Velloxide</h1>
+<p align="center"><i>Aspiring Exploit Developer | Binary Exploitation (Pwn)</i></p>
+<!-- ============================== -->
 <!--   ABOUT ME + 42 CARD + GIF     -->
 <!-- ============================== -->
 <table width="100%">
@@ -54,30 +59,6 @@ const itachi = {
 <br>
 
 <!-- ============================== -->
-<!--      WHAT I'M UP TO / FACTS    -->
-<!-- ============================== -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 What I'm Up To
-- 🔥 Mastering **C Programming** at 42 School
-- 🚀 Solving algorithmic challenges daily
-- 🌱 Exploring **System Design** and **Memory Management**
-- 👥 Contributing to open source projects
-- 📚 Learning from Dennis Ritchie's legacy
-
-</td>
-<td width="50%" valign="top">
-### 🎮 Fun Facts
-- 🧩 Love solving difficult problems
-- ☕ Coffee-driven debugging sessions
-- 🌙 Night owl coder
-
-</td>
-</tr>
-</table>
-<!-- ============================== -->
 <!--         GRADEME PROFILE        -->
 <!-- ============================== -->
 <p align="center">
@@ -85,6 +66,9 @@ const itachi = {
     <img src="https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg" alt="GradeMe profile card for @velloxide" />
   </a>
 </p>
+
+<br>
+
 <!-- ============================== -->
 <!--       TERMINAL / FOOTER        -->
 <!-- ============================== -->
