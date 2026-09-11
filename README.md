@@ -69,7 +69,6 @@ const itachi = {
 
 </td>
 <td width="50%" valign="top">
-
 ### 🎮 Fun Facts
 - 🧩 Love solving difficult problems
 - ☕ Coffee-driven debugging sessions
@@ -78,9 +77,6 @@ const itachi = {
 </td>
 </tr>
 </table>
-
-<br>
-
 <!-- ============================== -->
 <!--         GRADEME PROFILE        -->
 <!-- ============================== -->
@@ -89,14 +85,9 @@ const itachi = {
     <img src="https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg" alt="GradeMe profile card for @velloxide" />
   </a>
 </p>
-
-<br>
-
 <!-- ============================== -->
 <!--       TERMINAL / FOOTER        -->
 <!-- ============================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Velloxide/Velloxide/main/velloxide-terminal-banner.svg" alt="Velloxide terminal banner">
 </p>
-
-<p align="center"><i>"Reality is a well-coded genjutsu."</i></p>
