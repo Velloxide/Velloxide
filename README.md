@@ -54,7 +54,7 @@ const itachi = {
 
 <!-- Padge -->
 <p align="center">
-  <img src="" alt="Velloxide terminal banner">
+  <img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide padge">
 </p>
 <!-- GitHub Contribution Graph -->
 <p align="center">
