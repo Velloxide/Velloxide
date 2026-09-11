@@ -1,18 +1,27 @@
 <!-- ============================== -->
 <!--         HEADER / BANNER        -->
 <!-- ============================== -->
-<p align="center">
-  <img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="700">
-</p>
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+  <img src="https://github.com/Velloxide/Velloxide/blob/main/42-network-id-card.svg" alt="Velloxide 42 Network ID Card" width="100%">
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<h1 align="center">👋 Hi, I'm Velloxide</h1>
-<p align="center"><i>Aspiring Exploit Developer | Binary Exploitation (Pwn)</i></p>
+<h1>👋 Hi, I'm Velloxide</h1>
+<i>Aspiring Exploit Developer | Binary Exploitation (Pwn)</i>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=ff0000&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-black?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Memory%20Corruption%20%26%20RE-red?style=for-the-badge" alt="Focus" />
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=ff0000&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-black?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-Memory%20Corruption%20%26%20RE-red?style=for-the-badge" alt="Focus" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
