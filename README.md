@@ -52,6 +52,10 @@ const itachi = {
 
 [![GradeMe profile card for @velloxide](https://grademe.fr/api/cards/44e89e5b-65bf-4a85-8d06-8e4d9aff294f.svg)](https://grademe.fr/app/user/0bff3b0b-dcfb-4d25-8ec0-05ffa7b3115d)
 
+<!-- Padge -->
+<p align="center">
+  <img src="" alt="Velloxide terminal banner">
+</p>
 <!-- GitHub Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Velloxide/Velloxide/main/velloxide-terminal-banner.svg" alt="Velloxide terminal banner">
